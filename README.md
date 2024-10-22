@@ -36,3 +36,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurZ7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurZ7&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## 📍 Profile Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ArthurZ7/count.svg" alt="Número de visitantes no perfil"/>
+</p>
+</div>
